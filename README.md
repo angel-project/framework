@@ -1,5 +1,5 @@
 ## welcome
-rapid web service prototyping with [angel-framework](https://github.com/angel-framework/project).
+build your web application rapidly with [angel-framework](https://github.com/angel-framework/project).
 ```
 composer create-project angel-framework/project
 ```
