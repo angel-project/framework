@@ -1,11 +1,15 @@
-<p align="center"><img width="400" src="http://www.zuggr.com/file/angel.jpg"></p>
+<p align="center"><img width="250" src="http://www.zuggr.com/file/angel.jpg"></p>
 
-**Angel** is a lean PHP framework that focuses on **rapid prototyping** for web applications. **Install** Angel with Composer with the following command:
+**Angel** is a lean PHP framework that focuses on **rapid prototyping** for web applications.
+
+Installation
+-------------
+**Install** Angel with Composer with the following command:
 ```
 composer create-project angel-framework/project .
 ```
-[![GitHub php](https://img.shields.io/packagist/php-v/symfony/symfony.svg)
-[![GitHub license](https://img.shields.io/cocoapods/l/AFNetworking.svg)
+[GitHub php](https://img.shields.io/packagist/php-v/symfony/symfony.svg)
+[GitHub license](https://img.shields.io/cocoapods/l/AFNetworking.svg)
 
 Getting Started
 -------------
