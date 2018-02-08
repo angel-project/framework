@@ -14,18 +14,18 @@ composer create-project angel-framework/project .
 Server Setup
 -------------
 If you are running a **Nginx** server, add the following line in **nginx.conf** to enable URI redirect and restart server.
-```
+```Nginx
 location / {
   index index.php index.html;
   try_files $uri/ $uri /index.php?$query_string;
 }
 ```
 For **Apache** servers, first, uncomment the following line in **httpd.conf**.
-```
+```ApacheConf
 LoadModule rewrite_module lib/httpd/modules/mod_rewrite.so
 ```
 Then, add the following line and restart server.
-```
+```ApacheConf
 <Directory "/your/web/site/dir">
 	RewriteEngine on
 	RewriteRule "(.*)" "index.php?$1" [PT,QSA]
