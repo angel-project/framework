@@ -22,7 +22,7 @@ build::get("angel/[input]", function($input){
 As shown above, build::get method contains two parameters:
 * a router: "yoursite.com/hello/[a_variable_name_input]", variables in url are defined by **[brackets]**.
 * a function: a block of code (codeblock) that will execute when user visits the router's path using GET request.
-<a/>
+
 So now, if you visit **"yoursite.com/angel/fly"**:
 ```php
 angel fly!
