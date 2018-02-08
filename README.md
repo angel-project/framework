@@ -4,12 +4,12 @@
 
 Installation
 -------------
-**Install** Angel with Composer with the following command:
+**Install** with Composer with the following command:
 ```
 composer create-project angel-framework/project .
 ```
-[GitHub php](https://img.shields.io/packagist/php-v/symfony/symfony.svg)
-[GitHub license](https://img.shields.io/cocoapods/l/AFNetworking.svg)
+[!GitHub php](https://img.shields.io/packagist/php-v/symfony/symfony.svg)
+[!GitHub license](https://img.shields.io/cocoapods/l/AFNetworking.svg)
 
 Getting Started
 -------------
