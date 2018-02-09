@@ -6,7 +6,7 @@
   //get system errors by Whoops
   //disable as deployed
 
-  require_once __dir__.'/vendor/angel-framework/core/bootstrap.php';
+  require_once __dir__.'/vendor/angel-project/core/bootstrap.php';
   new angel\bootstrap;
   //start angel
 

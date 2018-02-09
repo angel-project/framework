@@ -6,7 +6,7 @@ Installation
 -------------
 **Install** with Composer with the following command:
 ```
-composer create-project angel-framework/project .
+composer create-project angel-project/framework .
 ```
 ![GitHub php](https://img.shields.io/packagist/php-v/symfony/symfony.svg)
 ![GitHub license](https://img.shields.io/cocoapods/l/AFNetworking.svg)
