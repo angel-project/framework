@@ -4,7 +4,7 @@
 
 Installation
 -------------
-**Install** with Composer with the following command:
+**Install** with Composer using the following command:
 ```
 composer create-project angel-project/framework .
 ```
@@ -56,8 +56,7 @@ Read our [wiki](https://github.com/angel-framework/project/wiki) on GitHub!
 Roadmap
 -------------
 * ~~Support Apache URI configuration~~
-* Add welcome page
-* Autoload Composer plugins
+* ~~Add welcome page~~
 * Documentation
 * Improve image processing capability: (resize, crop, blur, and watermark)
 * math:: module
