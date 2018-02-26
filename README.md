@@ -1,4 +1,4 @@
-<p align="center"><img width="220" src="http://www.zuggr.com/file/angel.jpg"></p>
+<p align="center"><img width="220" src="https://xy.zuggr.com/file/angel.jpg"></p>
 
 **Angel** is a lean PHP framework that focuses on **rapid prototyping** for web applications.
 
