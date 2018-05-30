@@ -2,6 +2,6 @@
 
   migration::table('table_name', function ($table) {
       $table->int('id');
-      $table->string('username');
+      $table->text('username');
       return $table;
   });
